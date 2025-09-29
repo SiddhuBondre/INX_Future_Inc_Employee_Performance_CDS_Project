@@ -102,3 +102,13 @@ Models used:
 7) Artificial Neural Network (ANN)
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
+
+# 📊 Results & Insights
+
+Compared performance of traditional ML models vs ANN.
+
+GridSearchCV improved Decision Tree & Random Forest accuracy.
+
+Identified key factors for attrition: age, bench history, experience in domain.
+
+ANN gave competitive results compared to ensemble methods.
