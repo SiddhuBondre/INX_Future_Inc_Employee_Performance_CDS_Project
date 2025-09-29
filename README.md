@@ -38,3 +38,17 @@ The dataset contains information about employees across multiple departments.
 9) ExperienceInCurrentDomain → Years of domain experience.
 
 10) LeaveOrNot → Target variable (1 = employee left, 0 = retained).
+    
+# ⚙️ Problem Statements
+
+## Attrition Prediction
+
+Build classification models to predict whether an employee will leave.
+
+## Promotion Likelihood
+
+Identify factors affecting promotions and predict promotion eligibility.
+
+## Employee Insights
+
+Generate visualizations & dashboards to assist HR in workforce planning.
