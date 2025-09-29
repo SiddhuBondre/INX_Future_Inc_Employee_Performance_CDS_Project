@@ -52,3 +52,53 @@ Identify factors affecting promotions and predict promotion eligibility.
 ## Employee Insights
 
 Generate visualizations & dashboards to assist HR in workforce planning.
+
+# 🛠️ Tech Stack
+
+Programming: Python (pandas, numpy, scikit-learn, keras/tensorflow)
+
+Visualization: Matplotlib, Seaborn
+
+ML Models: Logistic Regression, SVM, Decision Tree, Random Forest, Naïve Bayes, KNN, Artificial Neural Network (ANN)
+
+Optimization: GridSearchCV for hyperparameter tuning
+
+# ⚙️ Methodology
+
+1)  Data Preprocessing
+
+Handled missing values & outliers.
+
+Encoded categorical variables.
+
+Scaled numerical features.
+
+2) Exploratory Data Analysis (EDA)
+
+Age distribution, gender ratio, departmental attrition, bench-time analysis.
+
+Correlation heatmaps for feature relationships.
+
+3) Feature Engineering
+
+Created new features such as total experience buckets and tenure groups.
+
+4) Model Building & Evaluation
+   
+Models used:
+
+1) Logistic Regression
+
+2) Support Vector Machine (SVM)
+
+3) Decision Tree (with GridSearchCV)
+
+4) Random Forest (with GridSearchCV)
+
+5) Naïve Bayes (Bernoulli)
+
+6) K-Nearest Neighbors (KNN)
+
+7) Artificial Neural Network (ANN)
+
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC.
